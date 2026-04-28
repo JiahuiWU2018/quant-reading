@@ -1,4 +1,4 @@
-# Predictive Modelling
+# Time Series
 
 Papers on time series forecasting, return prediction, and factor modelling.
 

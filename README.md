@@ -6,8 +6,7 @@ A curated collection of research paper summaries, critiques, and model reproduct
 
 | Topic | Description |
 |---|---|
-| [predictive-modelling](papers/predictive-modelling/README.md) | Time series forecasting, return prediction, factor models |
-| [market-microstructure](papers/market-microstructure/README.md) | Order flow, price impact, LOB dynamics |
+| [timeseries](papers/timeseries/README.md) | Time series forecasting, return prediction |
 
 ## How to Navigate
 
