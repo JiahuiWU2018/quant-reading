@@ -1,0 +1,14 @@
+name: quant-reading
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pip:
+    - torch>=2.0
