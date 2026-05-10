@@ -1,4 +1,7 @@
-# quant-reading
+# quan| Topic | Description |
+|---|---|
+| [timeseries](papers/timeseries/README.md) | Time series forecasting, return prediction, factor models |
+| [ai](papers/ai/README.md) | LLMs, agents, code generation, formal verification |eading
 
 A curated collection of research paper summaries, critiques, and model reproductions in quantitative finance and related areas.
 
